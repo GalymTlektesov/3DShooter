@@ -9,10 +9,6 @@ ScriptsOnlyBuild:
     - PlayerShoot
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
-    UnityEngine.UI.dll:
-    - UnityEngine.UI.CanvasScaler
-    - UnityEngine.UI.GraphicRaycaster
-    - UnityEngine.UI.Text
     com.unity.multiplayer-hlapi.Runtime.dll:
     - UnityEngine.Networking.NetworkCallbacks
     - UnityEngine.Networking.NetworkIdentity
@@ -56,12 +52,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9376}
     - Class: 114
-      Script: {instanceID: 9422}
-    - Class: 114
-      Script: {instanceID: 9434}
-    - Class: 114
-      Script: {instanceID: 9480}
-    - Class: 114
       Script: {instanceID: 9518}
     - Class: 114
       Script: {instanceID: 9626}
@@ -85,17 +75,9 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11192}
     - Class: 115
       Script: {instanceID: 0}
-    - Class: 128
-      Script: {instanceID: 0}
     - Class: 135
       Script: {instanceID: 0}
     - Class: 157
-      Script: {instanceID: 0}
-    - Class: 222
-      Script: {instanceID: 0}
-    - Class: 223
-      Script: {instanceID: 0}
-    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
